@@ -18,6 +18,8 @@ gem 'bootstrap-sass', '~> 3.4.1'
 
 gem 'jquery-rails'
 
+gem 'devise', '~> 4.7', '>= 4.7.3'
+
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
